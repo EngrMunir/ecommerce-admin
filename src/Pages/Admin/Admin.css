@@ -1,8 +1,0 @@
-.admin{
-    display: flex;
-}
-@media{
-    .admin{
-        flex-direction: column;
-    }
-}
